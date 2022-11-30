@@ -1,6 +1,4 @@
-html, body, h1, blockquote, a, del, em, img, q, center, dl, dt, dd, 
-ol, ul, li, table, caption, th, td, article, aside, details, figure,
-figcaption, footer, header, hgroup, menu, nav, section, summary {
+* {
   margin: 0;
   padding: 0;
   border: 0;
